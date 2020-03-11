@@ -1,6 +1,6 @@
 # fluttertesting
 
-A new Flutter plugin.
+A flutter plugin to get the Downloads directory path. Implemented in Java for Android and Swift for iOS.
 
 ## Getting Started
 
